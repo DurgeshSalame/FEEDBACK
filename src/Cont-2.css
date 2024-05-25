@@ -1,0 +1,126 @@
+.container2 {
+    display: flex;
+    text-align: center;
+    /* align-items: center; */
+    justify-content: center;
+    height: 50%;
+}
+
+.cont2-img>img {
+    position: absolute;
+    height: 80px;
+    margin-left: 300px;
+    margin-top: 700px;
+
+}
+
+.container2>.text {
+    margin-top: 100px;
+}
+
+/* @media (min-width: 300px) and (max-width: 500px) {
+    .Card{
+        flex-wrap: wrap;
+    }
+} */
+.Box{
+    display: flex;
+    margin: auto;
+    flex-wrap: wrap;
+    width: 55%;
+    margin-top: 20px;
+    
+}
+
+/* __________________________CARD-1___________________________________________________ */
+.card-1 {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    min-width: 250px;
+    margin: auto;
+    border-radius: 15px;
+    position: relative;
+    background: linear-gradient(to right, #e9e6e6, #eabae2);
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.card-1 .content {
+    margin-top: 5px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding-left: 10px;
+}
+
+
+.card-1 .heading {
+    font-size: 1.0rem;
+    transition: 0.4s;
+    color: #4d2e02b8;
+}
+
+.card-1:hover .heading {
+    font-size: 1.8rem;
+    color: #53a6fa;
+}
+
+.card-1 .para {
+    margin-top: 15px;
+    width: 235px;
+    font-size: 1.2rem;
+    transition: 0.4s;
+    opacity: 0;
+    color: #4d2e02b8;
+}
+
+.card-1 .btn1 {
+    height: 10%;
+    margin-top: 100px;
+    padding: 0.2rem 1rem;
+    border: 2px solid #6f7a85;
+    transition: 0.4s;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    color: #6f7a85;
+    font-size: 1rem;
+    text-align: center;
+    border-radius: 10px;
+    font-weight: 500;
+    opacity: 0;
+    background: linear-gradient(to right, #eabae2, pink);
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin-left: 20px;
+}
+
+.card-1 .btn1:hover {
+    background-color: #6f7a85;
+    color: #ffffffaf;
+}
+
+.card-1:hover .para,
+.card-1:hover .btn1 {
+    opacity: 1;
+}
+
+.card-1 img {
+    display: block;
+    border-radius: 100px;
+    position: absolute;
+    top: 20%;
+    left: 25%;
+    width: 150px;
+    height: auto;
+    transition: 0.4s;
+}
+
+.card-1:hover img {
+    top: 20%;
+    left: 50%;
+    scale: 120%;
+}
+
+/* ________________________CARD-1-END________________________________________ */

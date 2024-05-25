@@ -1,0 +1,26 @@
+
+.container3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    max-width: 70vw;
+    height: 30%;
+
+}
+@media screen and (max-width: 936px){
+    .container4 {
+        flex-wrap: wrap;
+        padding: 50px 0px;
+    }
+    }
+
+.cont3-img {
+    position: relative;
+}
+.cont3-img> img{
+    position: relative;
+    z-index: 10;
+    width: 500px;
+}
+

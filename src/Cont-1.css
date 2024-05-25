@@ -1,0 +1,89 @@
+@media (min-width: 300px) and (max-width: 936px){
+    .cont-1 {
+        flex-wrap: wrap;
+        padding: 50px 0px;
+    }
+    }
+.cont-1 {
+    padding: 50px 0px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    /* border: 1px solid black; */
+    /* background-color: red; */
+    height: 500px;
+    width: 900px;
+
+}
+.cont-1-head> .para1 {
+    font-size: 135%;
+    color: rgb(90 87 87);
+    font-weight: 700;
+}
+ .sh1{
+    color: orangered;
+    font-size: 4rem;
+}
+.cont-2> .head1 {
+    font-size: 4rem;
+    color: rgb(47, 47, 47);
+}
+.img1 {
+    height: 200px;
+    width: 220px;
+    z-index: 1;
+    position: absolute;
+    /* float: right; */
+    margin-right: 1150px;
+    margin-top: 100px;
+
+    /* animation: s 2s infinite; */
+}
+
+@keyframes s {
+    0%{
+        margin-top: 30px;
+    }
+50%{
+    margin-bottom: 50px;
+}
+100%{
+    margin-top: 60px;
+}
+}
+.img2 {
+    height: 200px;
+    width: 220px;
+    z-index: 1;
+    position: absolute;
+    /* float: right; */
+    margin-right: 1150px;
+    margin-top: 500px;
+}
+.img3 {
+    height: 200px;
+    width: 220px;
+    z-index: 1;
+    position: absolute;
+    /* float: right; */
+    margin-left: 1150px;
+    margin-top: 100px;
+}
+.img4 {
+    height: 200px;
+    width: 220px;
+    z-index: 1;
+    position: absolute;
+    /* float: right; */
+    margin-left: 1150px;
+    margin-top: 500px;
+}
+
+
+
+/* img{
+    margin-right: 100px;
+    position: relative;
+} */

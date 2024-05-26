@@ -1,3 +1,15 @@
+# Output 
+![Capture](https://github.com/DurgeshSalame/FEEDBACK-app/assets/143694293/f73de9a6-2102-4dd7-b4b5-73e6e2b0d322)
+![Capture](https://github.com/DurgeshSalame/FEEDBACK-app/assets/143694293/241bd354-4b67-4720-b9ae-4aea3a1d7c9a)
+![Capture](https://github.com/DurgeshSalame/FEEDBACK-app/assets/143694293/4546a83e-ae6e-45fd-a3f8-94df57711798)
+![Capture](https://github.com/DurgeshSalame/FEEDBACK-app/assets/143694293/e66a6514-c3db-4a38-9690-6e85e13df9c1)
+![Capture](https://github.com/DurgeshSalame/FEEDBACK-app/assets/143694293/2dcd0993-d5c8-4469-89e2-eca2ad65eb31)
+![Capture](https://github.com/DurgeshSalame/FEEDBACK-app/assets/143694293/adaeea51-76a2-4fac-98e0-77c5ee48c451)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
